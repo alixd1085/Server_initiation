@@ -1,2 +1,2 @@
 # Server_initiation
-Server initiation via GUI using tkinter
+Server initiation via GUI using python tkinter
